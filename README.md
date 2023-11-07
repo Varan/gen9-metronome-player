@@ -19,7 +19,7 @@ This project uses [Poke-env](https://poke-env.readthedocs.io/en/latest/), which 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/Varan/gen9-metronome-player.git
    ```
 2. Install poke-env
    ```sh
