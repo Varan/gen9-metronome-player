@@ -1,0 +1,14 @@
+Happy (Glastrier) @ Choice Band  
+Ability: Good as Gold  
+Tera Type: Ghost  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Metronome  
+
+Smiles (Ampharos-Mega) @ Choice Specs  
+Ability: Magic Bounce  
+Tera Type: Ghost  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Quiet Nature  
+- Metronome  
